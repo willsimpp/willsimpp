@@ -1,77 +1,86 @@
-<h1>Hi, I'm William! <br/>Finance & Equity Research • Data-Driven Analyst • Operator</h1>
+<h1>Hi, I'm William! <br/>Finance & Equity Research • Data Analytics • Community Leadership</h1>
 
-<h2>💼 Experience Snapshot</h2>
+<h2>📈 About Me</h2>
 
-- <b>Data Analyst Intern</b>  
-  - Built automated sales reports in Excel tracking $10M+ annual sales; identified merchandising and seasonal demand trends  
-  - Supported five new retail SKUs; estimated 15–20% YoY revenue lift  
-  - Presented metrics to production/merchandising teams in China for forecasting and pricing decisions  
-  - Reduced manual reporting time by ~30%; improved forecast accuracy for upcoming cycles
+I grew up in **Bentonville, Arkansas**, where I’ve watched the city evolve into a global business hub. That environment—and discovering the concept of **compound growth** during my freshman year of high school—sparked my passion for **finance, investing, and capital markets**.  
 
-- <b>Bank Teller</b>  
-  - Processed $100K+ in daily transactions with 100% accuracy and compliance  
-  - Monitored 200+ accounts for irregular activity to mitigate fraud risk  
-  - Resolved client inquiries and generated qualified leads via needs-based analysis
+Today, I’m pursuing a **B.S.B.A. in Finance & Supply Chain Management** at the **Sam M. Walton College of Business**. I’m driven by curiosity, collaboration, and consistency—values that have guided my work in both finance and community leadership. My goal is to combine **data-driven financial analysis** with **purposeful decision-making** to help organizations grow strategically and sustainably.
 
-- <b>Leadership & Service</b>  
-  - Sigma Nu (Gamma Upsilon): Pledge Trainer & Mental Health Officer  
-  - Trained and mentored 76 new members (largest pledge class in national history); supported 150+ actives  
-  - Coordinated 3,000+ volunteer hours across 5 nonprofits; expanded surplus-food donation partnerships across NWA
+---
 
-<h2>📊 Skills & Tools</h2>
+<h2>💼 Experience</h2>
 
-- <b>Finance:</b> Financial analysis, statement modeling, DCF/comps basics, variance & sensitivity analysis  
-- <b>Data:</b> Excel (Power Query, Pivot, LOOKUP/XMATCH), Python (pandas, numpy), basic SQL  
-- <b>Markets:</b> REITs (industrial, data centers), Software, macro rates/curve, quality/dividend/value tilts  
-- <b>Reporting:</b> KPI dashboards, executive-ready summaries, forecasting
+**Equity Research Intern – Garrison Financial Institute** | Fayetteville, AR  
+*Sept 2025 – Present*  
+- Conduct equity research using the **Bloomberg Terminal** and **FRED** data to analyze companies and market sectors.  
+- Collaborate with fellow analysts to prepare reports and ensure consistent, professional deliverables.  
+- Develop **DCF valuation models**, integrating macroeconomic and company-level data for investment discussions.  
 
-<h2>🎓 Certifications</h2>
+**Data Analyst Intern – Westfield Outdoors** | Bentonville, AR  
+*Jan 2023 – May 2023*  
+- Built automated Excel reports tracking **$10M+ in annual sales**, identifying revenue mix, margin trends, and product performance.  
+- Streamlined reporting workflows, reducing manual prep time by **30%** and improving forecasting accuracy.  
+- Presented insights to **production and merchandising teams in China**, enhancing data-driven planning and budget allocation.  
 
-- Corporate Finance Foundations — Corporate Finance Institute (CFI) — Issued Oct 2025  
-  Credential ID: 2b488dac5c9ddb365b466d34f7b9c60e0fd7805e17381574396330d762c47c70
+**Teller – First Horizon Bank** | Bentonville, AR  
+*June 2025 – Present*  
+- Process **$100K+ in daily transactions** with 100% accuracy and compliance.  
+- Analyze and monitor 200+ accounts for irregular activity, preventing potential fraud and financial losses.  
+- Deliver personalized banking solutions tailored to client goals and financial objectives.  
 
-- Corporate Financial Statement Analysis — NASBA — Issued Oct 2025  
-  Credential ID: 42c6e0b9ec57789f72df0eacadc79fb2fdea7b006786d5c2a8b6e457dc12765a
+---
 
-- Economics for Capital Markets — CFI — Issued Oct 2025  
-  Credential ID: 3db419100cb3bdb7125002abfc62a704c528f64b2d6a1c559b226d4138ec37b2
+<h2>🏛 Leadership & Impact</h2>
 
-- Equity, Foreign Exchange (FX), and Rate Futures — CFI — Issued Oct 2025  
-  Credential ID: ddbec6055cd7f37a7ed3411f4a1d2e487b4bd2abfe6097e48fd8a8f63b4f685e
+**Sigma Nu – Gamma Upsilon** | Fayetteville, AR  
+*Mental Health Officer (2023) • Marshal (2024)*  
+- Trained and mentored **76 new members**, the largest pledge class in **Sigma Nu national history**.  
+- Served as **Mental Health Officer**, supporting **275+ active members** through programs that built resilience and accountability.  
 
-- Excel Essential Training (Microsoft 365) — Microsoft — Issued Oct 2025  
-  Credential ID: 1297b05965d91ccea7327e17ca09ba920102999e1190b55d9ad7bbb8150e4900
+**Fayetteville Food Rescue** | Fayetteville, AR  
+*Coordinator, Sept 2025 – Present*  
+- Leading expansion across Northwest Arkansas, partnering with **50+ regional and national food partners**.  
+- Coordinating large-scale donation partnerships with corporations to **reduce food waste and improve community meal access**.  
 
-- Financial Modeling & Forecasting Financial Statements — NASBA — Issued Oct 2025  
-  Credential ID: 90c47afaed8e3de250d7614bfff600180b1bbd2bfda966b98802648e16878c4e
+**Young Men’s Service League – Bentonville Chapter**  
+*President, 2019 – 2023*  
+- Led **25+ members** in organizing **3,000+ volunteer hours** across **5 nonprofit organizations**, strengthening community engagement and leadership development.  
 
-- AI in Risk Management and Fraud Detection — LinkedIn — Issued Aug 2025  
-  Skills: Artificial Intelligence for Business, Fraud Analysis, Risk Assessment
+---
 
-- Basics of Data Visualization Analysis — LinkedIn — Issued Aug 2025  
-  Skills: Data Analysis, Data Visualization
+<h2>🎓 Education</h2>
 
-- Bloomberg Finance Fundamentals — Bloomberg — Issued Aug 2025  
-  Credential ID: ZQLBXRxFdKW6eFnpQhACQJL1
+**University of Arkansas – Sam M. Walton College of Business**  
+*B.S.B.A. in Finance & Supply Chain Management (Expected May 2027)*  
+- **Cumulative GPA:** 3.59 / 4.00  
+- **Honors:** Chancellor’s List (Spring 2025), Dean’s List (Fall 2024)
 
-- Bloomberg Market Concepts — Bloomberg — Issued Aug 2025  
-  Credential ID: 9emYxTcSwUqQCgiUCYVy5Z6R
+---
 
-<h2>📚 Projects (Selection)</h2>
+<h2>📜 Certifications</h2>
 
-- Equity Research tear sheets (REITs, Software): drivers, risks, valuation frameworks  
-- Fundamentals dashboard (Excel/Python): factor screens, FCF yield, ROIC, EV/EBITDA  
-- DCF and trading comps templates with scenario/sensitivity analysis  
-- Backtests: dividend & quality tilts using pandas
+- Corporate Finance Foundations — Corporate Finance Institute (CFI)  
+- Corporate Financial Statement Analysis — NASBA  
+- Economics for Capital Markets — CFI  
+- Equity, FX, and Rate Futures — CFI  
+- Excel Essential Training (Microsoft 365) — Microsoft  
+- Financial Modeling & Forecasting Financial Statements — NASBA  
+- AI in Risk Management and Fraud Detection — LinkedIn  
+- Basics of Data Visualization Analysis — LinkedIn  
+- Bloomberg Finance Fundamentals — Bloomberg  
+- Bloomberg Market Concepts (BMC) — Bloomberg  
 
-<h2>🧭 Focus</h2>
+---
 
-- Institutional-grade analysis, clean reporting, and capital allocation frameworks  
-- Building durable, ethics-first leadership grounded in service and real-world execution
+<h2>🧠 Interests & Outlook</h2>
 
-<!--
-Notes:
-- You can add links later when repos are live.
-- Keep each repo README tight: problem, approach, metrics, visuals.
-- If you spin up GitHub Pages, mirror these sections into index.html.
--->
+I’m passionate about **analyzing markets, leading with purpose, and solving problems with data**. Outside of academics and research, I enjoy **watching sports**, spending time with friends, and collaborating with peers through **university organizations**.  
+
+My mission is to combine analytical rigor with empathy and discipline—building a career that unites **financial intelligence, community service, and sustainable growth**.
+
+---
+
+<h3><i style="font-size:0.9em; color:gray;">
+CFI – Corporate Finance Institute® | Global provider of financial modeling and valuation certification programs.<br/>
+NASBA – National Association of State Boards of Accountancy | U.S. body that supports professional education and credentialing for accountants and finance professionals.
+</i></h3>
