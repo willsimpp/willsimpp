@@ -6,7 +6,7 @@
 
 I grew up in **Bentonville, Arkansas**, where I’ve watched the city evolve into a global business hub. That environment, and discovering the concept of **compound growth** during my freshman year of high school really sparked my passion for **finance, investing, and capital markets**.  
 
-Today, I’m pursuing a **B.S.B.A. in Finance & Supply Chain Management** at the **Sam M. Walton College of Business**. I’m driven by curiosity, collaboration, and consistency values that have guided my work in both finance and community leadership. My goal is to combine **data-driven financial analysis** with **purposeful decision-making** to help organizations grow strategically and sustainably.
+Today, I’m pursuing a **B.S.B.A. in Finance & Supply Chain Management** at the **Sam M. Walton College of Business**. I’m driven by curiosity, collaboration, and consistency values that have guided my work in both finance and community leadership. My goal is to combine **data-driven financial analysis** with **purposeful decision making** to help organizations grow strategically and sustainably.
 
 ---
 
