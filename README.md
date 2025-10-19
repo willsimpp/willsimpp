@@ -1,54 +1,77 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm William! <br/>Finance & Equity Research • Data-Driven Analyst • Operator</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>💼 Experience Snapshot</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Data Analyst Intern</b>  
+  - Built automated sales reports in Excel tracking $10M+ annual sales; identified merchandising and seasonal demand trends  
+  - Supported five new retail SKUs; estimated 15–20% YoY revenue lift  
+  - Presented metrics to production/merchandising teams in China for forecasting and pricing decisions  
+  - Reduced manual reporting time by ~30%; improved forecast accuracy for upcoming cycles
 
-<h2>📺 Popular YouTube Videos</h2>
+- <b>Bank Teller</b>  
+  - Processed $100K+ in daily transactions with 100% accuracy and compliance  
+  - Monitored 200+ accounts for irregular activity to mitigate fraud risk  
+  - Resolved client inquiries and generated qualified leads via needs-based analysis
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Leadership & Service</b>  
+  - Sigma Nu (Gamma Upsilon): Pledge Trainer & Mental Health Officer  
+  - Trained and mentored 76 new members (largest pledge class in national history); supported 150+ actives  
+  - Coordinated 3,000+ volunteer hours across 5 nonprofits; expanded surplus-food donation partnerships across NWA
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📊 Skills & Tools</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- <b>Finance:</b> Financial analysis, statement modeling, DCF/comps basics, variance & sensitivity analysis  
+- <b>Data:</b> Excel (Power Query, Pivot, LOOKUP/XMATCH), Python (pandas, numpy), basic SQL  
+- <b>Markets:</b> REITs (industrial, data centers), Software, macro rates/curve, quality/dividend/value tilts  
+- <b>Reporting:</b> KPI dashboards, executive-ready summaries, forecasting
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<h2>🎓 Certifications</h2>
+
+- Corporate Finance Foundations — Corporate Finance Institute (CFI) — Issued Oct 2025  
+  Credential ID: 2b488dac5c9ddb365b466d34f7b9c60e0fd7805e17381574396330d762c47c70
+
+- Corporate Financial Statement Analysis — NASBA — Issued Oct 2025  
+  Credential ID: 42c6e0b9ec57789f72df0eacadc79fb2fdea7b006786d5c2a8b6e457dc12765a
+
+- Economics for Capital Markets — CFI — Issued Oct 2025  
+  Credential ID: 3db419100cb3bdb7125002abfc62a704c528f64b2d6a1c559b226d4138ec37b2
+
+- Equity, Foreign Exchange (FX), and Rate Futures — CFI — Issued Oct 2025  
+  Credential ID: ddbec6055cd7f37a7ed3411f4a1d2e487b4bd2abfe6097e48fd8a8f63b4f685e
+
+- Excel Essential Training (Microsoft 365) — Microsoft — Issued Oct 2025  
+  Credential ID: 1297b05965d91ccea7327e17ca09ba920102999e1190b55d9ad7bbb8150e4900
+
+- Financial Modeling & Forecasting Financial Statements — NASBA — Issued Oct 2025  
+  Credential ID: 90c47afaed8e3de250d7614bfff600180b1bbd2bfda966b98802648e16878c4e
+
+- AI in Risk Management and Fraud Detection — LinkedIn — Issued Aug 2025  
+  Skills: Artificial Intelligence for Business, Fraud Analysis, Risk Assessment
+
+- Basics of Data Visualization Analysis — LinkedIn — Issued Aug 2025  
+  Skills: Data Analysis, Data Visualization
+
+- Bloomberg Finance Fundamentals — Bloomberg — Issued Aug 2025  
+  Credential ID: ZQLBXRxFdKW6eFnpQhACQJL1
+
+- Bloomberg Market Concepts — Bloomberg — Issued Aug 2025  
+  Credential ID: 9emYxTcSwUqQCgiUCYVy5Z6R
+
+<h2>📚 Projects (Selection)</h2>
+
+- Equity Research tear sheets (REITs, Software): drivers, risks, valuation frameworks  
+- Fundamentals dashboard (Excel/Python): factor screens, FCF yield, ROIC, EV/EBITDA  
+- DCF and trading comps templates with scenario/sensitivity analysis  
+- Backtests: dividend & quality tilts using pandas
+
+<h2>🧭 Focus</h2>
+
+- Institutional-grade analysis, clean reporting, and capital allocation frameworks  
+- Building durable, ethics-first leadership grounded in service and real-world execution
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Notes:
+- You can add links later when repos are live.
+- Keep each repo README tight: problem, approach, metrics, visuals.
+- If you spin up GitHub Pages, mirror these sections into index.html.
 -->
