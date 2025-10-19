@@ -1,6 +1,6 @@
 <h1>Hi, I'm William! 
   
-  <br/>Finance & Equity Research • Data Analytics • Community Leadership</h1>
+  <br/>Finance & Equity Research • Community Leadership</h1>
 
 <h2>About Me 📈 </h2>
 
