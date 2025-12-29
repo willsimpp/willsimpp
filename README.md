@@ -12,8 +12,14 @@ Today, I’m pursuing a **B.S.B.A. in Finance & Supply Chain Management** at the
 
 <h2>Experience 💼 </h2>
 
+**Teller – First Horizon Bank** | Bentonville, AR  
+*June 2025 – Present*  
+- Process **$100K+ in daily transactions** with 100% accuracy and compliance.  
+- Analyze and monitor 200+ accounts for irregular activity, preventing potential fraud and financial losses.  
+- Deliver personalized banking solutions tailored to client goals and financial objectives.
+  
 **Equity Research Intern – Garrison Financial Institute** | Fayetteville, AR  
-*Sept 2025 – Present*  
+*Sept 2025 – Dec 2025*  
 - Conduct equity research using the **Bloomberg Terminal** and **FRED** data to analyze companies and market sectors.  
 - Collaborate with fellow analysts to prepare reports and ensure consistent, professional deliverables.  
 - Develop **DCF valuation models**, integrating macroeconomic and company level data for investment discussions.  
@@ -23,12 +29,6 @@ Today, I’m pursuing a **B.S.B.A. in Finance & Supply Chain Management** at the
 - Built automated Excel reports tracking **$10M+ in annual sales**, identifying revenue mix, margin trends, and product performance.  
 - Streamlined reporting workflows, reducing manual prep time by **30%** and improving forecasting accuracy.  
 - Presented insights to **production and merchandising teams in China**, enhancing data driven planning and budget allocation.  
-
-**Teller – First Horizon Bank** | Bentonville, AR  
-*June 2025 – Present*  
-- Process **$100K+ in daily transactions** with 100% accuracy and compliance.  
-- Analyze and monitor 200+ accounts for irregular activity, preventing potential fraud and financial losses.  
-- Deliver personalized banking solutions tailored to client goals and financial objectives.  
 
 ---
 
@@ -40,7 +40,7 @@ Today, I’m pursuing a **B.S.B.A. in Finance & Supply Chain Management** at the
 - Served as **Mental Health Officer**, supporting **275+ active members** through programs that built resilience and accountability.  
 
 **Fayetteville Food Rescue** | Fayetteville, AR  
-*Coordinator, Sept 2025 – Present*  
+*Chief Strategy Officer, Sept 2025 – Present*  
 - Leading expansion across Northwest Arkansas, partnering with **50+ regional and national food partners**.  
 - Coordinating large scale donation partnerships with corporations to **reduce food waste and improve community meal access**.  
 
