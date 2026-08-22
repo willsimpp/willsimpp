@@ -55,4 +55,4 @@ Bloomberg Market Concepts • Microsoft Office Specialist (Excel)
 
 #### Interests 🧠
 
-Global travel, live music, and Arkansas athletics — outside of markets, that's where I recharge.
+Global travel, live music, and Arkansas athletics
