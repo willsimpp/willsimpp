@@ -1,88 +1,58 @@
-<h1>Hi, I'm William! 
-  
-  <br/>Finance & Equity Research • Community Leadership</h1>
-
-<h2>About Me 📈 </h2>
-
-I grew up in **Bentonville, Arkansas**, where I’ve watched the city evolve into a global business hub. That environment, and discovering the concept of **compound growth** during my freshman year of high school really sparked my passion for **finance, investing, and capital markets**.  
-
-Today, I’m pursuing a **B.S.B.A. in Finance & Supply Chain Management** at the **Sam M. Walton College of Business**. I’m driven by curiosity, collaboration, and consistency values that have guided my work in both finance and community leadership. My goal is to combine **data-driven financial analysis** with **purposeful decision making** to help organizations grow strategically and sustainably.
+### Hi, I'm William 👋
+**Finance & Wealth Management • Community Leadership**
 
 ---
 
-<h2>Experience 💼 </h2>
+#### About Me 📈
 
-**Teller – First Horizon Bank** | Bentonville, AR  
-*June 2025 – Present*  
-- Process **$100K+ in daily transactions** with 100% accuracy and compliance.  
-- Analyze and monitor 200+ accounts for irregular activity, preventing potential fraud and financial losses.  
-- Deliver personalized banking solutions tailored to client goals and financial objectives.
-  
-**Equity Research Intern – Garrison Financial Institute** | Fayetteville, AR  
-*Sept 2025 – Dec 2025*  
-- Conduct equity research using the **Bloomberg Terminal** and **FRED** data to analyze companies and market sectors.  
-- Collaborate with fellow analysts to prepare reports and ensure consistent, professional deliverables.  
-- Develop **DCF valuation models**, integrating macroeconomic and company level data for investment discussions.  
+I grew up in Bentonville, Arkansas, and watched it evolve into a global business hub — that environment, paired with discovering compound growth in high school, is what pulled me toward finance and markets.
 
-**Data Analyst Intern – Westfield Outdoors** | Bentonville, AR  
-*Jan 2023 – May 2023*  
-- Built automated Excel reports tracking **$10M+ in annual sales**, identifying revenue mix, margin trends, and product performance.  
-- Streamlined reporting workflows, reducing manual prep time by **30%** and improving forecasting accuracy.  
-- Presented insights to **production and merchandising teams in China**, enhancing data driven planning and budget allocation.  
+I'm currently pursuing a B.S.B.A. in Finance & Supply Chain Management at the Sam M. Walton College of Business. My focus is wealth management: building the analytical foundation and client-facing judgment to help people grow and protect capital with a long-term, strategic approach.
 
----
+#### Experience 💼
 
-<h2>Leadership & Impact 🏛</h2>
+**Materials Analyst** — *Rebsamen Trust, University of Arkansas Student Managed Investment Fund* | Fayetteville, AR
+*Aug 2026 – Present*
+- Selected as 1 of 15 students managing the $3.2M+ Rebsamen Trust, benchmarked against the Russell 1000
+- Analyze macro and sector drivers to build outlooks, relative rankings, and buy/sell recommendations presented to faculty advisors and Trustees
 
-**Sigma Nu – Gamma Upsilon** | Fayetteville, AR  
-*Mental Health Officer (2023) • Marshal (2024)*  
-- Trained and mentored **76 new members**, the largest pledge class in **Sigma Nu national history**.  
-- Served as **Mental Health Officer**, supporting **275+ active members** through programs that built resilience and accountability.  
+**Founder & Product Engineer** — *Liminal Macro* | Remote
+*2026 – Present*
+- Built an institutional-grade market intelligence platform from the ground up — data architecture, proprietary analytics, and product
+- Designed quantitative models (systemic risk scoring, cross-asset dislocation detection, liquidity regime classification) and a source-verification framework enforcing institutional research standards
 
-**Fayetteville Food Rescue** | Fayetteville, AR  
-*Chief Strategy Officer, Sept 2025 – Present*  
-- Leading expansion across Northwest Arkansas, partnering with **50+ regional and national food partners**.  
-- Coordinating large scale donation partnerships with corporations to **reduce food waste and improve community meal access**.  
+**Teller** — *First Horizon Bank* | Bentonville, AR
+*June 2025 – Present*
+- Process $100K+ in daily transactions with full accuracy and compliance
+- Review account activity across 200+ client relationships, identifying servicing needs and fraud indicators — the client-facing groundwork for wealth management
 
-**Young Men’s Service League – Bentonville Chapter**  
-*President, 2019 – 2023*  
-- Led **25+ members** in organizing **3,000+ volunteer hours** across **5 nonprofit organizations**, strengthening community engagement and leadership development.  
+**Intern** — *Garrison Financial Institute* | Fayetteville, AR
+*Sept 2025 – Dec 2025*
+- Built financial models and valuation work using Bloomberg and FRED data to support investment discussions
 
----
+#### Leadership & Impact 🏛
 
-<h2>Education 🎓 </h2>
+**Sigma Nu, Gamma Upsilon** | Fayetteville, AR
+*Marshal • Mental Health Officer • Member*
+- Trained and mentored 76 new members within a 275+ member chapter
 
-**University of Arkansas – Sam M. Walton College of Business**  
-*B.S.B.A. in Finance & Supply Chain Management (Expected May 2027)*  
-- **Cumulative GPA:** 3.59 / 4.00  
-- **Honors:** Chancellor’s List (Spring 2025), Dean’s List (Fall 2024)
+**Fayetteville Food Rescue** | Fayetteville, AR
+*Coordinator, Sept 2025 – Present*
+- Built partnerships with 50+ regional and national organizations to expand food donation efforts across Northwest Arkansas
 
----
+#### Education 🎓
 
-<h2>Certifications 📜</h2>
+**University of Arkansas — Sam M. Walton College of Business**
+B.S.B.A. in Finance & Supply Chain Management (Expected May 2027)
+- Cumulative GPA: 3.64/4.00
+- Chancellor's List (Spring 2025), Dean's List (Fall 2024, Spring 2026)
+- International Portfolio Management Program, Zurich, Switzerland (Summer 2026)
 
-- Corporate Finance Foundations — Corporate Finance Institute (CFI)  
-- Corporate Financial Statement Analysis — NASBA  
-- Economics for Capital Markets — CFI  
-- Equity, FX, and Rate Futures — CFI  
-- Excel Essential Training (Microsoft 365) — Microsoft  
-- Financial Modeling & Forecasting Financial Statements — NASBA  
-- AI in Risk Management and Fraud Detection — LinkedIn  
-- Basics of Data Visualization Analysis — LinkedIn  
-- Bloomberg Finance Fundamentals — Bloomberg  
-- Bloomberg Market Concepts (BMC) — Bloomberg  
+#### Skills & Certifications 📜
 
----
+Bloomberg Terminal • Excel • Financial Modeling • DCF Valuation • PowerPoint
+Bloomberg Market Concepts • Microsoft Office Specialist (Excel)
 
-<h2>Interests & Outlook 🧠</h2>
+#### Interests 🧠
 
-I’m passionate about **analyzing markets, leading with purpose, and solving problems with data**. Outside of academics and research, I enjoy **watching sports**, spending time with friends, and collaborating with peers through **university organizations**.  
-
-My mission is to combine analytical rigor with empathy and discipline building a career that unites **financial intelligence, community service, and sustainable growth**.
-
----
-
-<h3><i style="font-size:0.9em; color:gray;">
-CFI – Corporate Finance Institute® | Global provider of financial modeling and valuation certification programs.<br/>
-NASBA – National Association of State Boards of Accountancy | U.S. body that supports professional education and credentialing for accountants and finance professionals.
-</i></h3>
+Global travel, live music, and Arkansas athletics — outside of markets, that's where I recharge.
