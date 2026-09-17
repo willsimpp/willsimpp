@@ -13,7 +13,7 @@ I'm currently pursuing a B.S.B.A. in Finance & Supply Chain Management at the Sa
 
 **Materials Analyst** — *Rebsamen Trust, University of Arkansas Student Managed Investment Fund* | Fayetteville, AR
 *Aug 2026 – Present*
-- Selected as 1 of 15 students managing the $3.2M+ Rebsamen Trust, benchmarked against the Russell 1000
+- Selected as 1 of 16 students managing the $3.2M+ Rebsamen Trust, benchmarked against the Russell 1000
 - Analyze macro and sector drivers to build outlooks, relative rankings, and buy/sell recommendations presented to faculty advisors and Trustees
 
 **Founder & Product Engineer** — *Liminal Macro* | Remote
