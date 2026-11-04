@@ -1,5 +1,5 @@
 ### Hi, I'm William 👋
-**Finance & Wealth Management • Community Leadership**
+**Finance & Supply Chain Management**
 
 ---
 
